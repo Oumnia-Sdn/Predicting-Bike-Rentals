@@ -25,4 +25,4 @@ Here are the descriptions for the relevant columns:
 * registered - The number of registered riders (people who had already signed up)
 * cnt - The total number of bike rentals (casual + registered)
 
-In this project, we'll try to predict the total number of bikes people rented in a given hour. we'll predict the cnt column using all of the other columns, except for casual and registered. To accomplish this, we'll create a few different machine learning models and evaluate their performance.
+In this project, I attempted to predict the total number of bikes people rented in a given hour. I predicted the cnt column using all of the other columns, except for casual and registered. To accomplish this, I created a few different machine learning models and evaluate their performance.
